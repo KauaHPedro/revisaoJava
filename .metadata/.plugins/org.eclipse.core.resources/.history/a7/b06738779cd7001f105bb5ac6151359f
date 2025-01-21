@@ -1,9 +1,0 @@
-package estruturas_condicionais;
-
-public class Ex_05 {
-	
-	public static void executar() {
-		
-	}
-
-}
