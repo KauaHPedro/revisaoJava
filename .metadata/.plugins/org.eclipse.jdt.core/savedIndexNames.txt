@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/kaua/Área de trabalho/WS-Eclipse/.metadata/.plugins/org.eclipse.jdt.core
+1022423009.index
+1865797976.index
+3645737979.index
