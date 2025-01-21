@@ -9,8 +9,8 @@
 *.iml
 /.vscode/
 /.settings/
-/.project
-/.classpath
+*.project
+*.classpath
 
 
 /target/
