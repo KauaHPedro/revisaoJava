@@ -7,7 +7,7 @@ public class Main {
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Exercício a ser executado: ");
-		
+
 		int ex = sc.nextInt();
 		
 		switch(ex) {
