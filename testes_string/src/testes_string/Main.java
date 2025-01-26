@@ -1,6 +1,7 @@
-package testes_strings;
+package testes_string;
 
-public class Teste_Strings {
+
+public class Main {
 
 	public static void main(String[] args) {
 		
